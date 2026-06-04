@@ -37,7 +37,7 @@ The Hugging Face `datasets` library is the standard way to load data for AI work
 ### Step 1: Install the datasets library
 
 ```bash
-pip install datasets huggingface_hub
+uv pip install datasets huggingface_hub
 ```
 
 ### Step 2: Load a dataset
